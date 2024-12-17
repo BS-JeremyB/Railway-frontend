@@ -1,5 +1,6 @@
 {
     "build": {
+      "base": ".",
       "cmd": "npm install && npm run build"
     }
   }
