@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class MusicService {
-  private apiUrl = 'http://127.0.0.1:8000/music/music/'; 
+  private apiUrl = 'https://railway-backend-production-048d.up.railway.app/music/music/'; 
 
   constructor(private http: HttpClient) {}
 
