@@ -1,1 +1,0 @@
-web: npx serve -s dist/music-app/browser -l $PORT
